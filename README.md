@@ -1,2 +1,2 @@
-# responsive-resume
+# Responsive-resume javascript/css
 1/3 done
